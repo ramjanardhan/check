@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>This is for revert checking</h1>
+        <h2>This is for revert checking</h2>
     </body>
 </html>
